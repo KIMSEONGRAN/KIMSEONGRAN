@@ -16,8 +16,6 @@
 </div>  
 
 <br>
-<br>
-<br>
 
 ## 💪️ Skills
 
@@ -42,8 +40,6 @@
 <img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=fff"/>
 </div>
 
-<br>
-<br>
 <br>
 
 ## 🛠️ Tools
