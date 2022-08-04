@@ -31,17 +31,6 @@
 
 <br>
 
-💭️ 다음의 사용 경험이 있습니다
-<div algin="left">
-<img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=fff"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=fff"/>
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=fff"/>
-<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=fff"/>
-<img alt="Sass" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=fff"/>
-</div>
-
-<br>
-
 ## 🛠️ Tools
 
 💡️ 다음의 툴을 사용할 수 있습니다
