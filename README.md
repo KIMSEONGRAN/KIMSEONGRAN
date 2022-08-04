@@ -12,7 +12,7 @@
 <div align="left">
 <a href="https://182x176.tistory.com/" target="_blank"><img alt="Bitdefender" src ="https://img.shields.io/badge/Blog-F26D85.svg?&style=for-the-badge&logo=Spreadshirt&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img alt="Notion" src ="https://img.shields.io/badge/RESUME-F2E4E9.svg?&style=for-the-badge&logo=Notion&logoColor=000"/></a>
-<a href="https://182x176.tistory.com/" target="_blank"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=ffffff"/></a>
+<img alt="Gmail" src ="https://img.shields.io/badge/doll950904@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=ffffff"/></a>
 </div>  
 
 <br>
@@ -38,3 +38,15 @@
 <a href="https://182x176.tistory.com/" target="_blank"><img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=fff"/></a>
 <a href="https://182x176.tistory.com/" target="_blank"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=fff"/></a>
 </div>
+
+<br>
+<br>
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=KIMSEONGRAN&show_icons=true&theme=dracula"> &nbsp;&nbsp;
+
+
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMSEONGRAN&show_icons=true&theme=dracula) &nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSEONGRAN&layout=compact&theme=dracula)
