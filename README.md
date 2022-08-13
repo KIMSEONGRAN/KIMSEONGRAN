@@ -11,7 +11,7 @@
 가르침은 언제나 즐거워서 알아가는 것이 행복합니다.
 <div align="left">
 <a href="https://182x176.tistory.com/" target="_blank"><img alt="Bitdefender" src ="https://img.shields.io/badge/Blog-F26D85.svg?&style=flat&logo=Spreadshirt&logoColor=ffffff"/></a>
-<a href="#" target="_blank"><img alt="Notion" src ="https://img.shields.io/badge/RESUME-F2E4E9.svg?&style=flat&logo=Notion&logoColor=000"/></a>
+<a href="https://fan-smile-44f.notion.site/RESUME-b771cc3abf0746238f1c472546cfd24f" target="_blank"><img alt="Notion" src ="https://img.shields.io/badge/RESUME-F2E4E9.svg?&style=flat&logo=Notion&logoColor=000"/></a>
 <a href="mailto: "doll950904@gmail.com" target="_blank"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=ffffff"/></a>
 </div>  
 <br>
