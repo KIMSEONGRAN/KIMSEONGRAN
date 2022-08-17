@@ -3,7 +3,7 @@
 </div>
 <br>
 
-## 🖐️ About ME
+## 🖐️ About ME.
 반갑습니다, 백엔드 공부하고 있는 개발자 `김성란` 입니다! 
 궁금한 건 직접 배워봐야하는 성향때문에 입문 후 지금까지 공부중입니다.   
 제일 좋아하는 언어는 `JavaScript`
@@ -19,9 +19,10 @@
 ![](https://github.com/KIMSEONGRAN/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/KIMSEONGRAN/github-stats-transparent/blob/output/generated/languages.svg)
 
-## 💪️ Skills
+<br>
+## 🛠️ Stacks.
 
-✅️ 다음의 기술을 주로 사용하고 있습니다
+✅️ 다음의 기술과 도구를 사용할 수 있습니다
 
 <div align="left">
 <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=ffffff"/></a>
@@ -29,16 +30,8 @@
 <img alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat&logo=NestJS&logoColor=fff"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=fff"/>
 <img alt="GraphQL" src ="https://img.shields.io/badge/GraphQL-E10098.svg?&style=flat&logo=GraphQL&logoColor=fff"/>
-</div>
-
-<br>
-
-## 🛠️ Tools
-
-💡️ 다음의 툴을 사용할 수 있습니다
-<div align="left">
-<a href="https://182x176.tistory.com/" target="_blank"><img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=fff"/></a>
-<a href="https://182x176.tistory.com/" target="_blank"><img alt="Notion" src ="https://img.shields.io/badge/Notion-fff.svg?&style=flat&logo=Notion&logoColor=111"/></a>
+<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=fff"/>
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-fff.svg?&style=flat&logo=Notion&logoColor=111"/>
 </div>
 
 <br>
