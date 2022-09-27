@@ -14,10 +14,6 @@
 <a href="https://fan-smile-44f.notion.site/RESUME-0451ff2ac0164c40bc761601da6bac9a" target="_blank"><img alt="Notion" src ="https://img.shields.io/badge/RESUME-F2E4E9.svg?&style=flat&logo=Notion&logoColor=000"/></a>
 <a href="mailto: "doll950904@gmail.com" target="_blank"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=ffffff"/></a>
 </div>  
-<br>
-
-![](https://github.com/KIMSEONGRAN/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/KIMSEONGRAN/github-stats-transparent/blob/output/generated/languages.svg)
 
 <br>
 
@@ -36,3 +32,6 @@
 
 <br>
 <br>
+
+![KIMSEONGRAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMSEONGRAN&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMSEONGRAN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
